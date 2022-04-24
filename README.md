@@ -1,5 +1,5 @@
 # SC1015 Mini Project - Group K
-Mini Project For NTU SC1015 PT Group K
+Mini Project For SC1015 PT Group K - Wang Ciyun (U2120384D) & Zhang Yuxuan (U2120484A)
 
 
 ### Introduction
