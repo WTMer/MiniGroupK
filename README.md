@@ -14,8 +14,8 @@ This is a Mini-Project for SC1015  which focuses on how personal habits might af
 
 ### Contributors
 
-- Wang CiYun - Data Cleaning, Data Analyzing, Creating Decision Tree, Notebook Coding, Presentation Slides, Presentation Video Editing
-- Zhang YuXuan - Data Cleaning, Data Analyzing, Presentation Slides, Presentation Script, Presentation Video Recording
+- Wang Ciyun - Data Cleaning, Data Analyzing, Creating Decision Tree, Notebook Coding, Presentation Slides, Presentation Video Editing
+- Zhang Yuxuan - Data Cleaning, Data Analyzing, Presentation Slides, Presentation Script, Presentation Video Recording
 
 
 ### Problem Definition
