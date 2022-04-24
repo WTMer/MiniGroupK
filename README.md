@@ -1,6 +1,8 @@
 # SC1015 Mini Project - Group K
 Mini Project For NTU SC1015 PT Group K
 
+![image](https://user-images.githubusercontent.com/79437795/129705387-a9627910-2ec1-42e1-9207-c23a213abe20.png)
+
 ### Introduction
 
 This is a Mini-Project for SC1015  which focuses on how personal habits might affect the risk of having an Heart disease. The Mini-Project Notebook contanins the following information:
