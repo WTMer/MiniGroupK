@@ -2,7 +2,7 @@
 Mini Project For SC1015 PT Group K - Wang Ciyun (U2120384D) & Zhang Yuxuan (U2120484A)
 
 
-### Introduction
+## Introduction
 
 This is a Mini-Project for SC1015  which focuses on how personal habits might affect the risk of having an Heart disease. The Mini-Project Notebook contanins the following information:
 
@@ -13,7 +13,7 @@ This is a Mini-Project for SC1015  which focuses on how personal habits might af
 5. Decision Tree optimized
 
 
-### Contributors
+## Contributors
 
 - Wang Ciyun - Data Cleaning, Data Analyzing, Creating Decision Tree, Notebook Coding, Presentation Slides, Presentation Video Editing
 - Zhang Yuxuan - Data Cleaning, Data Analyzing, Presentation Slides, Presentation Script, Presentation Video Recording
